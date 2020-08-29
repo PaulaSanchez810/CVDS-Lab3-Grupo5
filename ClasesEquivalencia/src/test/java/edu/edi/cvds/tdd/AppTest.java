@@ -1,4 +1,5 @@
-package edu.edi.cvds.tdd;
+//package edu.edi.cvds.tdd;
+package java.edu.edi.cvds.tdd;
 
 import static org.junit.Assert.assertTrue;
 
