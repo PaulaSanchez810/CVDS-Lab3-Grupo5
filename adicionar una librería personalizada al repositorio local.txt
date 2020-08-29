@@ -1,0 +1,1 @@
+$ mvn install:install-file "-Dfile=aerodescuentos-1.0.0.jar" "-DgroupId=edu.eci.cvds" "-DartifactId=aerodescuentos" "-Dversion=1.0.0" "-Dpackaging=jar"
