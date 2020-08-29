@@ -1,4 +1,4 @@
-package java.edu.edi.cvds.tdd.resgistryTest;
+package edu.edi.cvds.tdd.resgistryTest;
 import edu.edi.cvds.tdd.resgistry.Gender;
 import edu.edi.cvds.tdd.resgistry.Person;
 import edu.edi.cvds.tdd.resgistry.RegisterResult;
@@ -16,7 +16,7 @@ public class RegistryTest {
         RegisterResult result = registry.registerVoter(paula);
         Assert.assertEquals(RegisterResult.INVALID_AGE, result);
     }
-    // TODO Complete with more test cases
+
 
     @Test
     public void equivalenceClassNum1() {
